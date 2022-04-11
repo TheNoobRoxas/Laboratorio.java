@@ -26,4 +26,16 @@ public class Brano {
         return (Objects.equals(this.autore, autore) && this.anno == anno);
     }
 
+    public String getTitolo() {
+        return titolo;
+    }
+
+    public String getAutore() {
+        return autore;
+    }
+
+    public int getAnno() {
+        return anno;
+    }
+
 }
