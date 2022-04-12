@@ -121,7 +121,7 @@ cognome_matricola del project manager del team
 • la directory bin contenente il codice eseguibile del progetto
 • la directory data contenente i file dati
 3. La consegna viene fatta tramite invio cartella compressa all’indirizzo
-silvia.corchs@uninsubria.it con oggetto email: Progetto Lab A
+s******.c*****@uninsubria.it con oggetto email: Progetto Lab A
 4. Responsabile della consegna sarà il project manager tramite email
 istituzionale di ateneo
 5. Le date di consegna verranno comunicate di volta in volta
