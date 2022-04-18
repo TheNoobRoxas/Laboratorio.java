@@ -5,11 +5,19 @@ import java.util.Objects;
 public class Registrazione {
     String nomeUtente;
     String password;
+    String codicefiscale;
+    String indirizzo;
+
 
 
     public Registrazione(String nomeUtente, String password) {
         this.nomeUtente = nomeUtente;
         this.password = password;
+    }
+
+
+    public Registrazione(String codicefiscale) {
+        this.codicefiscale = codicefiscale;
     }
 
 
@@ -48,5 +56,13 @@ public class Registrazione {
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public String getCodicefiscale() {
+        return codicefiscale;
+    }
+
+    public void setCodicefiscale(String codicefiscale) {
+        this.codicefiscale = codicefiscale;
     }
 }
