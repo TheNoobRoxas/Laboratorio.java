@@ -1,12 +1,15 @@
 package emotionalsongs;
 
+import java.io.File;
+import java.io.FileWriter;
 import java.util.Objects;
 
 public class Registrazione {
     String nomeUtente;
     String password;
     String codicefiscale;
-    String indirizzo;
+
+
 
 
 
