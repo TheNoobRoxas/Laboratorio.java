@@ -2,6 +2,8 @@ package emotionalsongs;
 
 import java.util.Objects;
 
+
+
 public class Brano {
     public String titolo;
     public String autore;
@@ -37,5 +39,6 @@ public class Brano {
     public int getAnno() {
         return anno;
     }
+
 
 }
